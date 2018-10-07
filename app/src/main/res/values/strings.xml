@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CinemaFish</string>
+    <string name="BASE_URL">http://kinoafisha.ua/ajax/</string>
+</resources>
